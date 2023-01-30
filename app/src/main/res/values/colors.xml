@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#151c25</color>
+    <color name="purple_200">#151c25</color>
+    <color name="purple_700">#151c25</color>
+    <color name="teal_200">#f1b814</color>
+    <color name="teal_700">#795548</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="b_g">#0B0633</color>
+    <color name="shutter">#000000</color>
+    <color name="player_bg">#000000</color>
+    <color name="videoPlayer">#000000</color>
+    <color name="shutter_bd">#000000</color>
+    <color name="text_bg">#1F2732</color>
+</resources>
